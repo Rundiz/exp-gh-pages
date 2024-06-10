@@ -1,4 +1,9 @@
 
-# custom vars
-title: "Jekyll page"
-working_jekyll_version: "4.2.0"
+encoding: UTF-8
+
+plugins:
+  - jekyll-sitemap
+
+# Custom vars
+title: "GitHub pages experiments"
+working_jekyll_version: "3.8.6"
